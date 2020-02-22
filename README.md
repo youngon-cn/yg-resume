@@ -1,5 +1,5 @@
 # yg-resume
-:clipboard: iview the persional resume in yg-join
+:clipboard: view the personal resume in yg-join
 
 - Login https://youngon-cn.github.io/yg-resume/index.html, you can view your resume information
 
